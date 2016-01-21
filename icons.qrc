@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rec-icon.png</file>
+        <file>stop-icon.png</file>
+    </qresource>
+</RCC>
